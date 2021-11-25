@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KeitoKubo
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning many basic algorithms like dp
+- 👋 Hi, I’m @Saginomiya
+- 👀 I’m interested in DS / CS / Web Development
+- 🌱 I like to sleep.
 
 <!---
 KeitoKubo/KeitoKubo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
