@@ -8,6 +8,8 @@ Favovite Animes:
    - Soceiry Fight (Jujutsu Kaisen)  
    - Zankyo no Terrorism  
    - Psycho-pass  
+   - Steins:Gate  
+   - Re:Zero  
      
 My programming language experiences (2022/03):  
    - python   : 2y  
