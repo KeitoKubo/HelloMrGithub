@@ -2,7 +2,13 @@
 👀: I'm from Japan,living in Osaka, born in 2000.  
 💻 I’m interested in Data Science / BlockChain Engineering / Algorithms.  
 🌱 I like to watch Anime, read comics, do programming, eat spicy foods.   
-  
+
+Favorite Foods:  
+   - cream stew   
+   - Ramen   
+   - Curry and rice   
+
+
 Favovite Animes:  
    - Attack on Titan (Shingeki no Kyojin)  
    - Soceiry Fight (Jujutsu Kaisen)  
