@@ -1,7 +1,7 @@
 👋 Hi, I’m Keito Kubo.  
 👀: I'm from Japan,living in Osaka, born in 2000.  
 💻 I’m interested in Data Science / BlockChain Engineering / Algorithms.  
-🌱 I like to watch Anime, read comics, do programming, eat spicy foods.   
+🌱 I like to watch Anime, read comics, listen classic music, do programming, eat spicy foods.   
 
 Favorite Foods:
    - cream stew   
