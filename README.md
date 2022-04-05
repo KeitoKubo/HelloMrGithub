@@ -3,7 +3,7 @@
 💻 I’m interested in Data Science / BlockChain Engineering / Algorithms.  
 🌱 I like to watch Anime, read comics, do programming, eat spicy foods.   
 
-Favorite Foods:  
+Favorite Foods:
    - cream stew   
    - Ramen   
    - Curry and rice   
